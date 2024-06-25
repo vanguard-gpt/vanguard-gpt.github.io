@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://vanguard-gpt.github.io"
 
 github:
-  username: github_username # change to your github username
+  username: vanguard-gpt # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -36,7 +36,7 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: 뱅가드
   email: vanguard09@naver.com # change to your email address
-  links:
+  links: "https://vanguard-gpt.github.io"
     # The first element serves as the copyright owner's link
     # change to your twitter homepage
     # change to your github homepage
